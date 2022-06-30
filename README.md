@@ -1,6 +1,6 @@
 # Objective
-##### Clean and Transform data to Perform further analysis.
-##### Provide a Basic Recommendation solution.
+##### 1.Clean and Transform data to Perform further analysis.
+##### 2.Provide a Basic Recommendation solution.
 
 # Used Technologies
 
