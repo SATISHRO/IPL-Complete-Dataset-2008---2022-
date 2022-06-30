@@ -1,0 +1,20 @@
+
+In this project we will Clean and Transform data for further Perform analysis and basic recomendations based on similar Language and actors which user prefer...
+
+# [ Cleaning and Transformations ] :
+
+1) Remove Unneccesary columns.
+2) Finding For missing values in each columns.
+3) Remove or Replace that value with Average of that column.
+4) Transform the data for ease of operations and analysis
+
+# [ Analysis ] :
+1) Bat man Ipl Career season per Runs Find 
+2)  Most Runs top 10 Player
+3) Most Wickets top 10 Player
+4)Orange Cap Holder All Seasons In Ipl
+5)Purple Cap Holder All Seasons Ipl
+6)Bat Man About Career all information  
+7)most match winner Team
+8)most  player_of_match in ipl all season
+9) Bowler ipl Career Wickets all season 
